@@ -1,0 +1,24 @@
+h1{
+    text-align: center;color: white;background: black;height: 200px;
+}
+.menu{
+    background: yellow;width: 20%;height: 500px;display: flex;flex-direction: column;
+justify-content: space-around;}
+.header{
+   background: black;width: 100%;
+}
+.right{
+    background: gray;width: 80%;height: 500px;float: right;
+}
+.black{
+    background: black;width: 100px;
+    height: 100px;margin: 5px;display: flex;flex-direction: row;
+}
+img{
+    width: 300px;height: 300px;
+}
+.container{
+    max-width: 1200px;width: 100%;
+}
+
+
