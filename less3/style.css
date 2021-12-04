@@ -1,0 +1,31 @@
+img{
+    width: 110px;
+}
+table{
+    border-collapse: collapse;
+}
+h1{
+    text-align: center;
+}
+table, td, th{
+    border: 5px inset black
+}
+table{
+    text-align: center;
+}    
+table{
+    background-color: deepskyblue;
+}
+table{
+    background: rgb(2,0,36);
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 10%,
+     rgba(110,9,121,1) 35%, 
+     rgba(9,120,121,1) 61%)
+     }
+table{
+    color: wheat;
+}
+     
+
+   
