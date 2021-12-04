@@ -1,0 +1,40 @@
+nav{
+    background-color: orangered;
+}
+a{
+    text-decoration: none;color: white; padding: 15px;display: block;background-color: orangered;
+}
+body{
+    background-color: rgb(1, 2, 10);
+}
+nav ul li {
+    display: inline-block;
+}
+nav a:hover{
+    background-color: black;
+}
+nav ul{
+    position: relative;list-style: none;
+}
+li{
+    font-family: Andale Mono, monospace;
+}
+nav ul ul{
+    position: absolute;display: none;
+}
+nav ul li:hover>ul{
+    display: inherit; display: flex;flex-direction: column;
+}
+.text{
+    color: white;font-size: larger;
+}
+ul{
+    list-style-type: none;
+}
+.text ul{
+    display: flex;flex-direction: column;align-items: center
+    ;justify-content: center;
+}
+li > a:after{ content: ' +';}
+li > a:only-child:after{ content: '';}
+
