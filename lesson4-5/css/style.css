@@ -1,0 +1,25 @@
+img{
+    width: 300px;
+}
+table{
+    border-collapse: collapse;
+}
+table{
+    box-shadow: 10px 5px 5px rgb(0, 0, 0);
+}
+.left table{
+    width: 300px;
+    margin: 20px
+}
+.right table{
+    width: 500px;
+    margin: 20px;
+}
+input{
+    width: 150px;
+    height: 50px;
+    
+}
+
+
+    
